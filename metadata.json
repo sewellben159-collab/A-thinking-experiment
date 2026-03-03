@@ -1,0 +1,5 @@
+{
+  "name": "Logic Equivalence Protocol",
+  "description": "A dual-environment system that proves algorithmic equivalence between LLM-derived pseudo-code and executable JavaScript.",
+  "requestFramePermissions": []
+}
